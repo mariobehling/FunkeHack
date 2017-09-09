@@ -31,10 +31,13 @@ f) Share the pad name with testers and get feedback
 ## 5. Business Opportunities
 * Free and Open Source Skills for free
 * Closed skills paid
-* Platform is based on Open Source and has a lot of potential to engage developers
-* We are participating in Google Summer of Code and Google Code-In where we can push the platform
 
-## 6. Competitors
+## 6. How do we get Customers
+* Platform is based on Open Source and has a lot of potential to engage developers
+* We have a large developer network as founders of FOSSASIA
+* Participating in Google Summer of Code and Google Code-In where we can push the platform
+
+## 6. Who are our Competitors
 * sayspring.com
 * Alexa, Google, Siri as platforms itself
 
