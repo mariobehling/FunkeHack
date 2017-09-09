@@ -37,10 +37,10 @@ Closed source skills with locked coding editors are a pro-feature.
 * We have a large developer network as founders of FOSSASIA and we are participating in Google Summer of Code and Google Code-In where we can push the platform
 
 ## 7. Who are our Competitors
-* sayspring.com
-* Alexa, Google, Siri as platforms itself
+* sayspring.com and of course Alexa, Google, Siri as platforms itself.
+However they cannot be extended as they are not Open Source and they focus on the platform itself only.
 
-## 8. Who we are
+## 8. Who are we
 * Hong Phuc, developer community/business development
 * Mario Behling, front-end developer, serial techpreneur
 * Michael Christen, search engine developer and back-end
@@ -48,7 +48,7 @@ Closed source skills with locked coding editors are a pro-feature.
 ## 9. Next steps
 1. Business Development + Funding
 2. Technology Development
+* Connect solutions with Alexa, Google, Cortana, Siri e.g. "SUSI dream"
 * Integrate with Natural Language Processing
 * Integrate accounting system and enable users to limit access to their pads. This could also be a pro-feature.
-* Connect solutions with Alexa, Google, Cortana, Siri e.g. "SUSI dream"
 
