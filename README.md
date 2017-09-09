@@ -18,10 +18,15 @@ Integrate accounting system and enable users to limit access to their pads. This
 
 ## 6. Example
 a) Create your skill pad and add your test skills: URL: http://dream.susi.ai/p/funkehackathon
+
 b) Go to http://chat.susi.ai
+
 c) Activate your skill pad with "dream FunkeHackathon"
+
 d) Test your skill
+
 e) Share the pad with co-developers to collaborate on the skill creation
+
 f) Share the pad name with testers and get feedback
 
 
