@@ -16,7 +16,7 @@ Our solution shortens long nights to develop and test skills on different platfo
 * Example: We implemented this with SUSI.AI and set up an Etherpad on dream.susi.ai using the hotword "dream".
 
 ## 4. Life Example
-a) Create your skill pad and add your test skills: URL: http://dream.susi.ai/p/funkehackathon
+a) Create your skill pad and add your test skills: URL: http://dream.susi.ai/p/funke
 
 b) Go to http://chat.susi.ai
 
