@@ -33,6 +33,8 @@ f) Share the pad name with testers and get feedback
 * Closed skills paid
 
 ## 6. How do we get Customers
+* We will reach out to developers through our network and present it at conference
+* Use Social Media to push the solution
 * Platform is based on Open Source and has a lot of potential to engage developers
 * We have a large developer network as founders of FOSSASIA
 * Participating in Google Summer of Code and Google Code-In where we can push the platform
