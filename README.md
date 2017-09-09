@@ -1,11 +1,13 @@
 # FunkeHack
 Team SUSI Funke Hackathon
 
-## 1. Challenge: Expensive Development Process to Create Skills for Different Platforms
-The process to create and develop skills on different platform is cumbersome. Testing skills on different platforms takes up a lot of time of highly paid developers.
+## 1. Challenge for Customers: Expensive Development Process to Create Skills for Different Platforms
+The process to create and develop skills on different platform is cumbersome. Testing skills on all platforms takes up a lot of time of highly paid developers. All companies need to make the switch from the Visual Only Web to the Conversational Web need skills and want to keep the cost low. 
 
 ## 2. Solution: The SUSI Dream
-An application for developers and marketers to easily create skills and test them. This shortens long nights to test skills on platforms. It even makes it possible to quickly create skills and showcase them to possible customers. It is a perfect platform for agencies that want to sell their services.
+The SUSI Dream is a solution to shorten the time of the development process and enable developers and marketers to quickly create and test skills.
+
+Our solution shortens long nights to develop and test skills on different platforms. It even makes it possible to quickly create skills and showcase them to possible customers on the spot. It is a perfect platform for web agencies that want to sell their services.
 
 ## 3. Working Prototype
 * Users can add their skill code to an integrated coding editor pad and activate it on any platform by using a hotword. 
@@ -26,14 +28,14 @@ e) Share the pad with co-developers to collaborate on the skill creation
 
 f) Share the pad name with testers and get feedback
 
-## 6. Opportunities
+## 5. Business Opportunities
 * Free and Open Source Skills for free
-* Closed Skills for paid
+* Closed skills paid
 * Platform is based on Open Source and has a lot of potential to engage developers
 * We are participating in Google Summer of Code and Google Code-In where we can push the platform
 
-## 7. Competitors
-* Say Spring
+## 6. Competitors
+* sayspring.com
 * Alexa, Google, Siri as platforms itself
 
 ## 6. Who we are
@@ -44,7 +46,7 @@ f) Share the pad name with testers and get feedback
 ## 7. Next steps
 1. Business Development + Funding
 2. Technology Development
-* Integrate with API.ai
+* Integrate with Natural Language Processing
 * Integrate accounting system and enable users to limit access to their pads. This could also be a pro-feature.
 * Connect solutions with Alexa, Google, Cortana, Siri e.g. "SUSI dream"
 
