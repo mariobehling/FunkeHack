@@ -31,8 +31,9 @@ f) Share the pad name with testers and get feedback
 Add a basic skill tutorial here.
 
 ## 6. Next steps
+* Integrate with API.ai
 * Integrate accounting system and enable users to limit access to their pads. This could also be a pro-feature.
-* Add support for Alexa and Google, e.g. "SUSI dream"
+* Add support for Alexa, Google, Cortana, Siri e.g. "SUSI dream"
 
 
 
