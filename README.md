@@ -39,16 +39,16 @@ f) Share the pad name with testers and get feedback
 * We have a large developer network as founders of FOSSASIA
 * Participating in Google Summer of Code and Google Code-In where we can push the platform
 
-## 6. Who are our Competitors
+## 7. Who are our Competitors
 * sayspring.com
 * Alexa, Google, Siri as platforms itself
 
-## 6. Who we are
+## 8. Who we are
 * Hong Phuc, developer community/business development
 * Mario Behling, front-end developer, serial techpreneur
 * Michael Christen, search engine developer and back-end
 
-## 7. Next steps
+## 9. Next steps
 1. Business Development + Funding
 2. Technology Development
 * Integrate with Natural Language Processing
